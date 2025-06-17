@@ -1,0 +1,1597 @@
+Year,Age Group,Mortality Count,Sex_Females,Sex_Males,Sex_Persons,Disease_L2
+2020,6,1700,False,False,True,Infectious and parasitic diseases
+2020,6,9900,False,False,True,Respiratory Infectious 
+2020,6,0,False,False,True,Maternal conditions
+2020,6,0,False,False,True,Neonatal conditions
+2020,6,200,False,False,True,Nutritional deficiencies
+2020,6,8700,False,False,True,Malignant neoplasms
+2020,6,100,False,False,True,Other neoplasms
+2020,6,1900,False,False,True,Diabetes mellitus
+2020,6,300,False,False,True,"Endocrine, blood, immune disorders"
+2020,6,0,False,False,True,Mental and substance use disorders
+2020,6,4600,False,False,True,Neurological conditions
+2020,6,0,False,False,True,Sense organ diseases
+2020,6,29400,False,False,True,Cardiovascular diseases
+2020,6,4000,False,False,True,Respiratory diseases
+2020,6,3800,False,False,True,Digestive diseases
+2020,6,4100,False,False,True,Genitourinary diseases
+2020,6,1100,False,False,True,Skin diseases
+2020,6,100,False,False,True,Musculoskeletal diseases
+2020,6,0,False,False,True,Congenital anomalies
+2020,6,0,False,False,True,Oral conditions
+2020,6,0,False,False,True,Sudden infant death syndrome
+2020,6,1700,False,False,True,Unintentional injuries
+2020,6,200,False,False,True,Intentional injuries
+2020,6,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2020,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,6,800,False,True,False,Infectious and parasitic diseases
+2020,6,4100,False,True,False,Respiratory Infectious 
+2020,6,0,False,True,False,Maternal conditions
+2020,6,0,False,True,False,Neonatal conditions
+2020,6,100,False,True,False,Nutritional deficiencies
+2020,6,4600,False,True,False,Malignant neoplasms
+2020,6,0,False,True,False,Other neoplasms
+2020,6,700,False,True,False,Diabetes mellitus
+2020,6,100,False,True,False,"Endocrine, blood, immune disorders"
+2020,6,0,False,True,False,Mental and substance use disorders
+2020,6,1600,False,True,False,Neurological conditions
+2020,6,0,False,True,False,Sense organ diseases
+2020,6,11900,False,True,False,Cardiovascular diseases
+2020,6,2200,False,True,False,Respiratory diseases
+2020,6,1600,False,True,False,Digestive diseases
+2020,6,1500,False,True,False,Genitourinary diseases
+2020,6,300,False,True,False,Skin diseases
+2020,6,0,False,True,False,Musculoskeletal diseases
+2020,6,0,False,True,False,Congenital anomalies
+2020,6,0,False,True,False,Oral conditions
+2020,6,0,False,True,False,Sudden infant death syndrome
+2020,6,1000,False,True,False,Unintentional injuries
+2020,6,100,False,True,False,Intentional injuries
+2020,6,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2020,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,6,800,True,False,False,Infectious and parasitic diseases
+2020,6,5800,True,False,False,Respiratory Infectious 
+2020,6,0,True,False,False,Maternal conditions
+2020,6,0,True,False,False,Neonatal conditions
+2020,6,200,True,False,False,Nutritional deficiencies
+2020,6,4100,True,False,False,Malignant neoplasms
+2020,6,100,True,False,False,Other neoplasms
+2020,6,1200,True,False,False,Diabetes mellitus
+2020,6,200,True,False,False,"Endocrine, blood, immune disorders"
+2020,6,0,True,False,False,Mental and substance use disorders
+2020,6,3000,True,False,False,Neurological conditions
+2020,6,0,True,False,False,Sense organ diseases
+2020,6,17500,True,False,False,Cardiovascular diseases
+2020,6,1800,True,False,False,Respiratory diseases
+2020,6,2200,True,False,False,Digestive diseases
+2020,6,2700,True,False,False,Genitourinary diseases
+2020,6,800,True,False,False,Skin diseases
+2020,6,100,True,False,False,Musculoskeletal diseases
+2020,6,0,True,False,False,Congenital anomalies
+2020,6,0,True,False,False,Oral conditions
+2020,6,0,True,False,False,Sudden infant death syndrome
+2020,6,700,True,False,False,Unintentional injuries
+2020,6,100,True,False,False,Intentional injuries
+2020,6,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2021,0,100,False,False,True,Infectious and parasitic diseases
+2021,0,300,False,False,True,Respiratory Infectious 
+2021,0,0,False,False,True,Maternal conditions
+2021,0,1400,False,False,True,Neonatal conditions
+2021,0,0,False,False,True,Nutritional deficiencies
+2021,0,100,False,False,True,Malignant neoplasms
+2021,0,0,False,False,True,Other neoplasms
+2021,0,0,False,False,True,Diabetes mellitus
+2021,0,0,False,False,True,"Endocrine, blood, immune disorders"
+2021,0,0,False,False,True,Mental and substance use disorders
+2021,0,0,False,False,True,Neurological conditions
+2021,0,0,False,False,True,Sense organ diseases
+2021,0,100,False,False,True,Cardiovascular diseases
+2021,0,0,False,False,True,Respiratory diseases
+2021,0,100,False,False,True,Digestive diseases
+2021,0,0,False,False,True,Genitourinary diseases
+2021,0,0,False,False,True,Skin diseases
+2021,0,0,False,False,True,Musculoskeletal diseases
+2021,0,1100,False,False,True,Congenital anomalies
+2021,0,0,False,False,True,Oral conditions
+2021,0,100,False,False,True,Sudden infant death syndrome
+2021,0,200,False,False,True,Unintentional injuries
+2021,0,0,False,False,True,Intentional injuries
+2021,0,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2021,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,0,100,False,True,False,Infectious and parasitic diseases
+2021,0,100,False,True,False,Respiratory Infectious 
+2021,0,0,False,True,False,Maternal conditions
+2021,0,800,False,True,False,Neonatal conditions
+2021,0,0,False,True,False,Nutritional deficiencies
+2021,0,100,False,True,False,Malignant neoplasms
+2021,0,0,False,True,False,Other neoplasms
+2021,0,0,False,True,False,Diabetes mellitus
+2021,0,0,False,True,False,"Endocrine, blood, immune disorders"
+2021,0,0,False,True,False,Mental and substance use disorders
+2021,0,0,False,True,False,Neurological conditions
+2021,0,0,False,True,False,Sense organ diseases
+2021,0,0,False,True,False,Cardiovascular diseases
+2021,0,0,False,True,False,Respiratory diseases
+2021,0,0,False,True,False,Digestive diseases
+2021,0,0,False,True,False,Genitourinary diseases
+2021,0,0,False,True,False,Skin diseases
+2021,0,0,False,True,False,Musculoskeletal diseases
+2021,0,600,False,True,False,Congenital anomalies
+2021,0,0,False,True,False,Oral conditions
+2021,0,100,False,True,False,Sudden infant death syndrome
+2021,0,100,False,True,False,Unintentional injuries
+2021,0,0,False,True,False,Intentional injuries
+2021,0,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2021,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,0,100,True,False,False,Infectious and parasitic diseases
+2021,0,100,True,False,False,Respiratory Infectious 
+2021,0,0,True,False,False,Maternal conditions
+2021,0,600,True,False,False,Neonatal conditions
+2021,0,0,True,False,False,Nutritional deficiencies
+2021,0,0,True,False,False,Malignant neoplasms
+2021,0,0,True,False,False,Other neoplasms
+2021,0,0,True,False,False,Diabetes mellitus
+2021,0,0,True,False,False,"Endocrine, blood, immune disorders"
+2021,0,0,True,False,False,Mental and substance use disorders
+2021,0,0,True,False,False,Neurological conditions
+2021,0,0,True,False,False,Sense organ diseases
+2021,0,0,True,False,False,Cardiovascular diseases
+2021,0,0,True,False,False,Respiratory diseases
+2021,0,0,True,False,False,Digestive diseases
+2021,0,0,True,False,False,Genitourinary diseases
+2021,0,0,True,False,False,Skin diseases
+2021,0,0,True,False,False,Musculoskeletal diseases
+2021,0,500,True,False,False,Congenital anomalies
+2021,0,0,True,False,False,Oral conditions
+2021,0,0,True,False,False,Sudden infant death syndrome
+2021,0,100,True,False,False,Unintentional injuries
+2021,0,0,True,False,False,Intentional injuries
+2021,0,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2020,5,1000,False,False,True,Infectious and parasitic diseases
+2020,5,3300,False,False,True,Respiratory Infectious 
+2020,5,0,False,False,True,Maternal conditions
+2020,5,0,False,False,True,Neonatal conditions
+2020,5,0,False,False,True,Nutritional deficiencies
+2020,5,6500,False,False,True,Malignant neoplasms
+2020,5,0,False,False,True,Other neoplasms
+2020,5,1300,False,False,True,Diabetes mellitus
+2020,5,100,False,False,True,"Endocrine, blood, immune disorders"
+2020,5,0,False,False,True,Mental and substance use disorders
+2020,5,700,False,False,True,Neurological conditions
+2020,5,0,False,False,True,Sense organ diseases
+2020,5,13700,False,False,True,Cardiovascular diseases
+2020,5,1500,False,False,True,Respiratory diseases
+2020,5,2100,False,False,True,Digestive diseases
+2020,5,2100,False,False,True,Genitourinary diseases
+2020,5,300,False,False,True,Skin diseases
+2020,5,0,False,False,True,Musculoskeletal diseases
+2020,5,0,False,False,True,Congenital anomalies
+2020,5,0,False,False,True,Oral conditions
+2020,5,0,False,False,True,Sudden infant death syndrome
+2020,5,1300,False,False,True,Unintentional injuries
+2020,5,200,False,False,True,Intentional injuries
+2020,5,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2020,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,5,700,False,True,False,Infectious and parasitic diseases
+2020,5,2100,False,True,False,Respiratory Infectious 
+2020,5,0,False,True,False,Maternal conditions
+2020,5,0,False,True,False,Neonatal conditions
+2020,5,0,False,True,False,Nutritional deficiencies
+2020,5,3800,False,True,False,Malignant neoplasms
+2020,5,0,False,True,False,Other neoplasms
+2020,5,600,False,True,False,Diabetes mellitus
+2020,5,100,False,True,False,"Endocrine, blood, immune disorders"
+2020,5,0,False,True,False,Mental and substance use disorders
+2020,5,300,False,True,False,Neurological conditions
+2020,5,0,False,True,False,Sense organ diseases
+2020,5,9000,False,True,False,Cardiovascular diseases
+2020,5,1100,False,True,False,Respiratory diseases
+2020,5,1400,False,True,False,Digestive diseases
+2020,5,1100,False,True,False,Genitourinary diseases
+2020,5,200,False,True,False,Skin diseases
+2020,5,0,False,True,False,Musculoskeletal diseases
+2020,5,0,False,True,False,Congenital anomalies
+2020,5,0,False,True,False,Oral conditions
+2020,5,0,False,True,False,Sudden infant death syndrome
+2020,5,1000,False,True,False,Unintentional injuries
+2020,5,200,False,True,False,Intentional injuries
+2020,5,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2020,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,5,300,True,False,False,Infectious and parasitic diseases
+2020,5,1200,True,False,False,Respiratory Infectious 
+2020,5,0,True,False,False,Maternal conditions
+2020,5,0,True,False,False,Neonatal conditions
+2020,5,0,True,False,False,Nutritional deficiencies
+2020,5,2700,True,False,False,Malignant neoplasms
+2020,5,0,True,False,False,Other neoplasms
+2020,5,600,True,False,False,Diabetes mellitus
+2020,5,100,True,False,False,"Endocrine, blood, immune disorders"
+2020,5,0,True,False,False,Mental and substance use disorders
+2020,5,300,True,False,False,Neurological conditions
+2020,5,0,True,False,False,Sense organ diseases
+2020,5,4600,True,False,False,Cardiovascular diseases
+2020,5,400,True,False,False,Respiratory diseases
+2020,5,700,True,False,False,Digestive diseases
+2020,5,1000,True,False,False,Genitourinary diseases
+2020,5,200,True,False,False,Skin diseases
+2020,5,0,True,False,False,Musculoskeletal diseases
+2020,5,0,True,False,False,Congenital anomalies
+2020,5,0,True,False,False,Oral conditions
+2020,5,0,True,False,False,Sudden infant death syndrome
+2020,5,300,True,False,False,Unintentional injuries
+2020,5,100,True,False,False,Intentional injuries
+2020,5,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2000,1,200,False,False,True,Infectious and parasitic diseases
+2000,1,200,False,False,True,Respiratory Infectious 
+2000,1,0,False,False,True,Maternal conditions
+2000,1,0,False,False,True,Neonatal conditions
+2000,1,0,False,False,True,Nutritional deficiencies
+2000,1,400,False,False,True,Malignant neoplasms
+2000,1,0,False,False,True,Other neoplasms
+2000,1,0,False,False,True,Diabetes mellitus
+2000,1,0,False,False,True,"Endocrine, blood, immune disorders"
+2000,1,0,False,False,True,Mental and substance use disorders
+2000,1,0,False,False,True,Neurological conditions
+2000,1,0,False,False,True,Sense organ diseases
+2000,1,100,False,False,True,Cardiovascular diseases
+2000,1,0,False,False,True,Respiratory diseases
+2000,1,0,False,False,True,Digestive diseases
+2000,1,0,False,False,True,Genitourinary diseases
+2000,1,0,False,False,True,Skin diseases
+2000,1,0,False,False,True,Musculoskeletal diseases
+2000,1,100,False,False,True,Congenital anomalies
+2000,1,0,False,False,True,Oral conditions
+2000,1,0,False,False,True,Sudden infant death syndrome
+2000,1,600,False,False,True,Unintentional injuries
+2000,1,0,False,False,True,Intentional injuries
+2000,1,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2000,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,1,100,False,True,False,Infectious and parasitic diseases
+2000,1,100,False,True,False,Respiratory Infectious 
+2000,1,0,False,True,False,Maternal conditions
+2000,1,0,False,True,False,Neonatal conditions
+2000,1,0,False,True,False,Nutritional deficiencies
+2000,1,200,False,True,False,Malignant neoplasms
+2000,1,0,False,True,False,Other neoplasms
+2000,1,0,False,True,False,Diabetes mellitus
+2000,1,0,False,True,False,"Endocrine, blood, immune disorders"
+2000,1,0,False,True,False,Mental and substance use disorders
+2000,1,0,False,True,False,Neurological conditions
+2000,1,0,False,True,False,Sense organ diseases
+2000,1,0,False,True,False,Cardiovascular diseases
+2000,1,0,False,True,False,Respiratory diseases
+2000,1,0,False,True,False,Digestive diseases
+2000,1,0,False,True,False,Genitourinary diseases
+2000,1,0,False,True,False,Skin diseases
+2000,1,0,False,True,False,Musculoskeletal diseases
+2000,1,100,False,True,False,Congenital anomalies
+2000,1,0,False,True,False,Oral conditions
+2000,1,0,False,True,False,Sudden infant death syndrome
+2000,1,400,False,True,False,Unintentional injuries
+2000,1,0,False,True,False,Intentional injuries
+2000,1,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2000,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,1,100,True,False,False,Infectious and parasitic diseases
+2000,1,100,True,False,False,Respiratory Infectious 
+2000,1,0,True,False,False,Maternal conditions
+2000,1,0,True,False,False,Neonatal conditions
+2000,1,0,True,False,False,Nutritional deficiencies
+2000,1,100,True,False,False,Malignant neoplasms
+2000,1,0,True,False,False,Other neoplasms
+2000,1,0,True,False,False,Diabetes mellitus
+2000,1,0,True,False,False,"Endocrine, blood, immune disorders"
+2000,1,0,True,False,False,Mental and substance use disorders
+2000,1,0,True,False,False,Neurological conditions
+2000,1,0,True,False,False,Sense organ diseases
+2000,1,0,True,False,False,Cardiovascular diseases
+2000,1,0,True,False,False,Respiratory diseases
+2000,1,0,True,False,False,Digestive diseases
+2000,1,0,True,False,False,Genitourinary diseases
+2000,1,0,True,False,False,Skin diseases
+2000,1,0,True,False,False,Musculoskeletal diseases
+2000,1,0,True,False,False,Congenital anomalies
+2000,1,0,True,False,False,Oral conditions
+2000,1,0,True,False,False,Sudden infant death syndrome
+2000,1,200,True,False,False,Unintentional injuries
+2000,1,0,True,False,False,Intentional injuries
+2000,1,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2021,6,2100,False,False,True,Infectious and parasitic diseases
+2021,6,26400,False,False,True,Respiratory Infectious 
+2021,6,0,False,False,True,Maternal conditions
+2021,6,0,False,False,True,Neonatal conditions
+2021,6,300,False,False,True,Nutritional deficiencies
+2021,6,11400,False,False,True,Malignant neoplasms
+2021,6,100,False,False,True,Other neoplasms
+2021,6,2400,False,False,True,Diabetes mellitus
+2021,6,400,False,False,True,"Endocrine, blood, immune disorders"
+2021,6,0,False,False,True,Mental and substance use disorders
+2021,6,5600,False,False,True,Neurological conditions
+2021,6,0,False,False,True,Sense organ diseases
+2021,6,38500,False,False,True,Cardiovascular diseases
+2021,6,5400,False,False,True,Respiratory diseases
+2021,6,5000,False,False,True,Digestive diseases
+2021,6,5400,False,False,True,Genitourinary diseases
+2021,6,1400,False,False,True,Skin diseases
+2021,6,100,False,False,True,Musculoskeletal diseases
+2021,6,0,False,False,True,Congenital anomalies
+2021,6,0,False,False,True,Oral conditions
+2021,6,0,False,False,True,Sudden infant death syndrome
+2021,6,2100,False,False,True,Unintentional injuries
+2021,6,200,False,False,True,Intentional injuries
+2021,6,4100,False,False,True,Other COVID-19 pandemic-related outcomes
+2021,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,6,1100,False,True,False,Infectious and parasitic diseases
+2021,6,12900,False,True,False,Respiratory Infectious 
+2021,6,0,False,True,False,Maternal conditions
+2021,6,0,False,True,False,Neonatal conditions
+2021,6,100,False,True,False,Nutritional deficiencies
+2021,6,6200,False,True,False,Malignant neoplasms
+2021,6,100,False,True,False,Other neoplasms
+2021,6,900,False,True,False,Diabetes mellitus
+2021,6,200,False,True,False,"Endocrine, blood, immune disorders"
+2021,6,0,False,True,False,Mental and substance use disorders
+2021,6,2000,False,True,False,Neurological conditions
+2021,6,0,False,True,False,Sense organ diseases
+2021,6,16900,False,True,False,Cardiovascular diseases
+2021,6,3200,False,True,False,Respiratory diseases
+2021,6,2300,False,True,False,Digestive diseases
+2021,6,2100,False,True,False,Genitourinary diseases
+2021,6,400,False,True,False,Skin diseases
+2021,6,0,False,True,False,Musculoskeletal diseases
+2021,6,0,False,True,False,Congenital anomalies
+2021,6,0,False,True,False,Oral conditions
+2021,6,0,False,True,False,Sudden infant death syndrome
+2021,6,1200,False,True,False,Unintentional injuries
+2021,6,200,False,True,False,Intentional injuries
+2021,6,2500,False,True,False,Other COVID-19 pandemic-related outcomes
+2021,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,6,1000,True,False,False,Infectious and parasitic diseases
+2021,6,13500,True,False,False,Respiratory Infectious 
+2021,6,0,True,False,False,Maternal conditions
+2021,6,0,True,False,False,Neonatal conditions
+2021,6,200,True,False,False,Nutritional deficiencies
+2021,6,5100,True,False,False,Malignant neoplasms
+2021,6,100,True,False,False,Other neoplasms
+2021,6,1500,True,False,False,Diabetes mellitus
+2021,6,200,True,False,False,"Endocrine, blood, immune disorders"
+2021,6,0,True,False,False,Mental and substance use disorders
+2021,6,3600,True,False,False,Neurological conditions
+2021,6,0,True,False,False,Sense organ diseases
+2021,6,21700,True,False,False,Cardiovascular diseases
+2021,6,2200,True,False,False,Respiratory diseases
+2021,6,2700,True,False,False,Digestive diseases
+2021,6,3300,True,False,False,Genitourinary diseases
+2021,6,1000,True,False,False,Skin diseases
+2021,6,100,True,False,False,Musculoskeletal diseases
+2021,6,0,True,False,False,Congenital anomalies
+2021,6,0,True,False,False,Oral conditions
+2021,6,0,True,False,False,Sudden infant death syndrome
+2021,6,800,True,False,False,Unintentional injuries
+2021,6,100,True,False,False,Intentional injuries
+2021,6,1600,True,False,False,Other COVID-19 pandemic-related outcomes
+2020,0,200,False,False,True,Infectious and parasitic diseases
+2020,0,200,False,False,True,Respiratory Infectious 
+2020,0,0,False,False,True,Maternal conditions
+2020,0,1500,False,False,True,Neonatal conditions
+2020,0,0,False,False,True,Nutritional deficiencies
+2020,0,100,False,False,True,Malignant neoplasms
+2020,0,0,False,False,True,Other neoplasms
+2020,0,0,False,False,True,Diabetes mellitus
+2020,0,0,False,False,True,"Endocrine, blood, immune disorders"
+2020,0,0,False,False,True,Mental and substance use disorders
+2020,0,0,False,False,True,Neurological conditions
+2020,0,0,False,False,True,Sense organ diseases
+2020,0,100,False,False,True,Cardiovascular diseases
+2020,0,0,False,False,True,Respiratory diseases
+2020,0,100,False,False,True,Digestive diseases
+2020,0,0,False,False,True,Genitourinary diseases
+2020,0,0,False,False,True,Skin diseases
+2020,0,0,False,False,True,Musculoskeletal diseases
+2020,0,1100,False,False,True,Congenital anomalies
+2020,0,0,False,False,True,Oral conditions
+2020,0,100,False,False,True,Sudden infant death syndrome
+2020,0,200,False,False,True,Unintentional injuries
+2020,0,0,False,False,True,Intentional injuries
+2020,0,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2020,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,0,100,False,True,False,Infectious and parasitic diseases
+2020,0,100,False,True,False,Respiratory Infectious 
+2020,0,0,False,True,False,Maternal conditions
+2020,0,900,False,True,False,Neonatal conditions
+2020,0,0,False,True,False,Nutritional deficiencies
+2020,0,100,False,True,False,Malignant neoplasms
+2020,0,0,False,True,False,Other neoplasms
+2020,0,0,False,True,False,Diabetes mellitus
+2020,0,0,False,True,False,"Endocrine, blood, immune disorders"
+2020,0,0,False,True,False,Mental and substance use disorders
+2020,0,0,False,True,False,Neurological conditions
+2020,0,0,False,True,False,Sense organ diseases
+2020,0,0,False,True,False,Cardiovascular diseases
+2020,0,0,False,True,False,Respiratory diseases
+2020,0,0,False,True,False,Digestive diseases
+2020,0,0,False,True,False,Genitourinary diseases
+2020,0,0,False,True,False,Skin diseases
+2020,0,0,False,True,False,Musculoskeletal diseases
+2020,0,600,False,True,False,Congenital anomalies
+2020,0,0,False,True,False,Oral conditions
+2020,0,100,False,True,False,Sudden infant death syndrome
+2020,0,100,False,True,False,Unintentional injuries
+2020,0,0,False,True,False,Intentional injuries
+2020,0,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2020,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,0,100,True,False,False,Infectious and parasitic diseases
+2020,0,100,True,False,False,Respiratory Infectious 
+2020,0,0,True,False,False,Maternal conditions
+2020,0,700,True,False,False,Neonatal conditions
+2020,0,0,True,False,False,Nutritional deficiencies
+2020,0,100,True,False,False,Malignant neoplasms
+2020,0,0,True,False,False,Other neoplasms
+2020,0,0,True,False,False,Diabetes mellitus
+2020,0,0,True,False,False,"Endocrine, blood, immune disorders"
+2020,0,0,True,False,False,Mental and substance use disorders
+2020,0,0,True,False,False,Neurological conditions
+2020,0,0,True,False,False,Sense organ diseases
+2020,0,0,True,False,False,Cardiovascular diseases
+2020,0,0,True,False,False,Respiratory diseases
+2020,0,0,True,False,False,Digestive diseases
+2020,0,0,True,False,False,Genitourinary diseases
+2020,0,0,True,False,False,Skin diseases
+2020,0,0,True,False,False,Musculoskeletal diseases
+2020,0,500,True,False,False,Congenital anomalies
+2020,0,0,True,False,False,Oral conditions
+2020,0,0,True,False,False,Sudden infant death syndrome
+2020,0,100,True,False,False,Unintentional injuries
+2020,0,0,True,False,False,Intentional injuries
+2020,0,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2020,3,2500,False,False,True,Infectious and parasitic diseases
+2020,3,1500,False,False,True,Respiratory Infectious 
+2020,3,100,False,False,True,Maternal conditions
+2020,3,0,False,False,True,Neonatal conditions
+2020,3,0,False,False,True,Nutritional deficiencies
+2020,3,4200,False,False,True,Malignant neoplasms
+2020,3,0,False,False,True,Other neoplasms
+2020,3,500,False,False,True,Diabetes mellitus
+2020,3,100,False,False,True,"Endocrine, blood, immune disorders"
+2020,3,100,False,False,True,Mental and substance use disorders
+2020,3,100,False,False,True,Neurological conditions
+2020,3,0,False,False,True,Sense organ diseases
+2020,3,5400,False,False,True,Cardiovascular diseases
+2020,3,400,False,False,True,Respiratory diseases
+2020,3,1300,False,False,True,Digestive diseases
+2020,3,900,False,False,True,Genitourinary diseases
+2020,3,100,False,False,True,Skin diseases
+2020,3,100,False,False,True,Musculoskeletal diseases
+2020,3,100,False,False,True,Congenital anomalies
+2020,3,0,False,False,True,Oral conditions
+2020,3,0,False,False,True,Sudden infant death syndrome
+2020,3,2700,False,False,True,Unintentional injuries
+2020,3,900,False,False,True,Intentional injuries
+2020,3,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2020,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,3,2000,False,True,False,Infectious and parasitic diseases
+2020,3,1000,False,True,False,Respiratory Infectious 
+2020,3,0,False,True,False,Maternal conditions
+2020,3,0,False,True,False,Neonatal conditions
+2020,3,0,False,True,False,Nutritional deficiencies
+2020,3,1900,False,True,False,Malignant neoplasms
+2020,3,0,False,True,False,Other neoplasms
+2020,3,200,False,True,False,Diabetes mellitus
+2020,3,100,False,True,False,"Endocrine, blood, immune disorders"
+2020,3,100,False,True,False,Mental and substance use disorders
+2020,3,100,False,True,False,Neurological conditions
+2020,3,0,False,True,False,Sense organ diseases
+2020,3,4100,False,True,False,Cardiovascular diseases
+2020,3,200,False,True,False,Respiratory diseases
+2020,3,1100,False,True,False,Digestive diseases
+2020,3,500,False,True,False,Genitourinary diseases
+2020,3,100,False,True,False,Skin diseases
+2020,3,0,False,True,False,Musculoskeletal diseases
+2020,3,0,False,True,False,Congenital anomalies
+2020,3,0,False,True,False,Oral conditions
+2020,3,0,False,True,False,Sudden infant death syndrome
+2020,3,2200,False,True,False,Unintentional injuries
+2020,3,700,False,True,False,Intentional injuries
+2020,3,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2020,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,3,400,True,False,False,Infectious and parasitic diseases
+2020,3,500,True,False,False,Respiratory Infectious 
+2020,3,100,True,False,False,Maternal conditions
+2020,3,0,True,False,False,Neonatal conditions
+2020,3,0,True,False,False,Nutritional deficiencies
+2020,3,2300,True,False,False,Malignant neoplasms
+2020,3,0,True,False,False,Other neoplasms
+2020,3,200,True,False,False,Diabetes mellitus
+2020,3,100,True,False,False,"Endocrine, blood, immune disorders"
+2020,3,0,True,False,False,Mental and substance use disorders
+2020,3,0,True,False,False,Neurological conditions
+2020,3,0,True,False,False,Sense organ diseases
+2020,3,1400,True,False,False,Cardiovascular diseases
+2020,3,200,True,False,False,Respiratory diseases
+2020,3,200,True,False,False,Digestive diseases
+2020,3,400,True,False,False,Genitourinary diseases
+2020,3,100,True,False,False,Skin diseases
+2020,3,100,True,False,False,Musculoskeletal diseases
+2020,3,0,True,False,False,Congenital anomalies
+2020,3,0,True,False,False,Oral conditions
+2020,3,0,True,False,False,Sudden infant death syndrome
+2020,3,400,True,False,False,Unintentional injuries
+2020,3,200,True,False,False,Intentional injuries
+2020,3,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2000,5,800,False,False,True,Infectious and parasitic diseases
+2000,5,1200,False,False,True,Respiratory Infectious 
+2000,5,0,False,False,True,Maternal conditions
+2000,5,0,False,False,True,Neonatal conditions
+2000,5,0,False,False,True,Nutritional deficiencies
+2000,5,3300,False,False,True,Malignant neoplasms
+2000,5,0,False,False,True,Other neoplasms
+2000,5,900,False,False,True,Diabetes mellitus
+2000,5,100,False,False,True,"Endocrine, blood, immune disorders"
+2000,5,0,False,False,True,Mental and substance use disorders
+2000,5,300,False,False,True,Neurological conditions
+2000,5,0,False,False,True,Sense organ diseases
+2000,5,8500,False,False,True,Cardiovascular diseases
+2000,5,1300,False,False,True,Respiratory diseases
+2000,5,1300,False,False,True,Digestive diseases
+2000,5,1000,False,False,True,Genitourinary diseases
+2000,5,100,False,False,True,Skin diseases
+2000,5,0,False,False,True,Musculoskeletal diseases
+2000,5,0,False,False,True,Congenital anomalies
+2000,5,0,False,False,True,Oral conditions
+2000,5,0,False,False,True,Sudden infant death syndrome
+2000,5,1000,False,False,True,Unintentional injuries
+2000,5,200,False,False,True,Intentional injuries
+2000,5,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2000,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,5,500,False,True,False,Infectious and parasitic diseases
+2000,5,700,False,True,False,Respiratory Infectious 
+2000,5,0,False,True,False,Maternal conditions
+2000,5,0,False,True,False,Neonatal conditions
+2000,5,0,False,True,False,Nutritional deficiencies
+2000,5,1900,False,True,False,Malignant neoplasms
+2000,5,0,False,True,False,Other neoplasms
+2000,5,400,False,True,False,Diabetes mellitus
+2000,5,0,False,True,False,"Endocrine, blood, immune disorders"
+2000,5,0,False,True,False,Mental and substance use disorders
+2000,5,100,False,True,False,Neurological conditions
+2000,5,0,False,True,False,Sense organ diseases
+2000,5,5000,False,True,False,Cardiovascular diseases
+2000,5,800,False,True,False,Respiratory diseases
+2000,5,800,False,True,False,Digestive diseases
+2000,5,500,False,True,False,Genitourinary diseases
+2000,5,0,False,True,False,Skin diseases
+2000,5,0,False,True,False,Musculoskeletal diseases
+2000,5,0,False,True,False,Congenital anomalies
+2000,5,0,False,True,False,Oral conditions
+2000,5,0,False,True,False,Sudden infant death syndrome
+2000,5,800,False,True,False,Unintentional injuries
+2000,5,100,False,True,False,Intentional injuries
+2000,5,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2000,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,5,300,True,False,False,Infectious and parasitic diseases
+2000,5,500,True,False,False,Respiratory Infectious 
+2000,5,0,True,False,False,Maternal conditions
+2000,5,0,True,False,False,Neonatal conditions
+2000,5,0,True,False,False,Nutritional deficiencies
+2000,5,1500,True,False,False,Malignant neoplasms
+2000,5,0,True,False,False,Other neoplasms
+2000,5,500,True,False,False,Diabetes mellitus
+2000,5,0,True,False,False,"Endocrine, blood, immune disorders"
+2000,5,0,True,False,False,Mental and substance use disorders
+2000,5,200,True,False,False,Neurological conditions
+2000,5,0,True,False,False,Sense organ diseases
+2000,5,3600,True,False,False,Cardiovascular diseases
+2000,5,400,True,False,False,Respiratory diseases
+2000,5,500,True,False,False,Digestive diseases
+2000,5,500,True,False,False,Genitourinary diseases
+2000,5,0,True,False,False,Skin diseases
+2000,5,0,True,False,False,Musculoskeletal diseases
+2000,5,0,True,False,False,Congenital anomalies
+2000,5,0,True,False,False,Oral conditions
+2000,5,0,True,False,False,Sudden infant death syndrome
+2000,5,300,True,False,False,Unintentional injuries
+2000,5,0,True,False,False,Intentional injuries
+2000,5,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2021,5,1200,False,False,True,Infectious and parasitic diseases
+2021,5,10800,False,False,True,Respiratory Infectious 
+2021,5,0,False,False,True,Maternal conditions
+2021,5,0,False,False,True,Neonatal conditions
+2021,5,0,False,False,True,Nutritional deficiencies
+2021,5,7700,False,False,True,Malignant neoplasms
+2021,5,100,False,False,True,Other neoplasms
+2021,5,1600,False,False,True,Diabetes mellitus
+2021,5,200,False,False,True,"Endocrine, blood, immune disorders"
+2021,5,0,False,False,True,Mental and substance use disorders
+2021,5,800,False,False,True,Neurological conditions
+2021,5,0,False,False,True,Sense organ diseases
+2021,5,16600,False,False,True,Cardiovascular diseases
+2021,5,1800,False,False,True,Respiratory diseases
+2021,5,2500,False,False,True,Digestive diseases
+2021,5,2600,False,False,True,Genitourinary diseases
+2021,5,400,False,False,True,Skin diseases
+2021,5,100,False,False,True,Musculoskeletal diseases
+2021,5,0,False,False,True,Congenital anomalies
+2021,5,0,False,False,True,Oral conditions
+2021,5,0,False,False,True,Sudden infant death syndrome
+2021,5,1400,False,False,True,Unintentional injuries
+2021,5,300,False,False,True,Intentional injuries
+2021,5,2100,False,False,True,Other COVID-19 pandemic-related outcomes
+2021,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,5,800,False,True,False,Infectious and parasitic diseases
+2021,5,6700,False,True,False,Respiratory Infectious 
+2021,5,0,False,True,False,Maternal conditions
+2021,5,0,False,True,False,Neonatal conditions
+2021,5,0,False,True,False,Nutritional deficiencies
+2021,5,4300,False,True,False,Malignant neoplasms
+2021,5,0,False,True,False,Other neoplasms
+2021,5,800,False,True,False,Diabetes mellitus
+2021,5,100,False,True,False,"Endocrine, blood, immune disorders"
+2021,5,0,False,True,False,Mental and substance use disorders
+2021,5,400,False,True,False,Neurological conditions
+2021,5,0,False,True,False,Sense organ diseases
+2021,5,10700,False,True,False,Cardiovascular diseases
+2021,5,1300,False,True,False,Respiratory diseases
+2021,5,1700,False,True,False,Digestive diseases
+2021,5,1300,False,True,False,Genitourinary diseases
+2021,5,200,False,True,False,Skin diseases
+2021,5,0,False,True,False,Musculoskeletal diseases
+2021,5,0,False,True,False,Congenital anomalies
+2021,5,0,False,True,False,Oral conditions
+2021,5,0,False,True,False,Sudden infant death syndrome
+2021,5,1100,False,True,False,Unintentional injuries
+2021,5,200,False,True,False,Intentional injuries
+2021,5,1400,False,True,False,Other COVID-19 pandemic-related outcomes
+2021,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,5,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,5,400,True,False,False,Infectious and parasitic diseases
+2021,5,4100,True,False,False,Respiratory Infectious 
+2021,5,0,True,False,False,Maternal conditions
+2021,5,0,True,False,False,Neonatal conditions
+2021,5,0,True,False,False,Nutritional deficiencies
+2021,5,3400,True,False,False,Malignant neoplasms
+2021,5,0,True,False,False,Other neoplasms
+2021,5,800,True,False,False,Diabetes mellitus
+2021,5,100,True,False,False,"Endocrine, blood, immune disorders"
+2021,5,0,True,False,False,Mental and substance use disorders
+2021,5,400,True,False,False,Neurological conditions
+2021,5,0,True,False,False,Sense organ diseases
+2021,5,5900,True,False,False,Cardiovascular diseases
+2021,5,500,True,False,False,Respiratory diseases
+2021,5,800,True,False,False,Digestive diseases
+2021,5,1300,True,False,False,Genitourinary diseases
+2021,5,200,True,False,False,Skin diseases
+2021,5,0,True,False,False,Musculoskeletal diseases
+2021,5,0,True,False,False,Congenital anomalies
+2021,5,0,True,False,False,Oral conditions
+2021,5,0,True,False,False,Sudden infant death syndrome
+2021,5,300,True,False,False,Unintentional injuries
+2021,5,100,True,False,False,Intentional injuries
+2021,5,600,True,False,False,Other COVID-19 pandemic-related outcomes
+2000,3,3300,False,False,True,Infectious and parasitic diseases
+2000,3,700,False,False,True,Respiratory Infectious 
+2000,3,100,False,False,True,Maternal conditions
+2000,3,0,False,False,True,Neonatal conditions
+2000,3,0,False,False,True,Nutritional deficiencies
+2000,3,2600,False,False,True,Malignant neoplasms
+2000,3,0,False,False,True,Other neoplasms
+2000,3,300,False,False,True,Diabetes mellitus
+2000,3,100,False,False,True,"Endocrine, blood, immune disorders"
+2000,3,100,False,False,True,Mental and substance use disorders
+2000,3,100,False,False,True,Neurological conditions
+2000,3,0,False,False,True,Sense organ diseases
+2000,3,2700,False,False,True,Cardiovascular diseases
+2000,3,300,False,False,True,Respiratory diseases
+2000,3,800,False,False,True,Digestive diseases
+2000,3,500,False,False,True,Genitourinary diseases
+2000,3,0,False,False,True,Skin diseases
+2000,3,0,False,False,True,Musculoskeletal diseases
+2000,3,0,False,False,True,Congenital anomalies
+2000,3,0,False,False,True,Oral conditions
+2000,3,0,False,False,True,Sudden infant death syndrome
+2000,3,2400,False,False,True,Unintentional injuries
+2000,3,600,False,False,True,Intentional injuries
+2000,3,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2000,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,3,2800,False,True,False,Infectious and parasitic diseases
+2000,3,500,False,True,False,Respiratory Infectious 
+2000,3,0,False,True,False,Maternal conditions
+2000,3,0,False,True,False,Neonatal conditions
+2000,3,0,False,True,False,Nutritional deficiencies
+2000,3,1200,False,True,False,Malignant neoplasms
+2000,3,0,False,True,False,Other neoplasms
+2000,3,100,False,True,False,Diabetes mellitus
+2000,3,0,False,True,False,"Endocrine, blood, immune disorders"
+2000,3,0,False,True,False,Mental and substance use disorders
+2000,3,0,False,True,False,Neurological conditions
+2000,3,0,False,True,False,Sense organ diseases
+2000,3,1900,False,True,False,Cardiovascular diseases
+2000,3,200,False,True,False,Respiratory diseases
+2000,3,600,False,True,False,Digestive diseases
+2000,3,200,False,True,False,Genitourinary diseases
+2000,3,0,False,True,False,Skin diseases
+2000,3,0,False,True,False,Musculoskeletal diseases
+2000,3,0,False,True,False,Congenital anomalies
+2000,3,0,False,True,False,Oral conditions
+2000,3,0,False,True,False,Sudden infant death syndrome
+2000,3,2000,False,True,False,Unintentional injuries
+2000,3,500,False,True,False,Intentional injuries
+2000,3,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2000,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,3,400,True,False,False,Infectious and parasitic diseases
+2000,3,200,True,False,False,Respiratory Infectious 
+2000,3,100,True,False,False,Maternal conditions
+2000,3,0,True,False,False,Neonatal conditions
+2000,3,0,True,False,False,Nutritional deficiencies
+2000,3,1400,True,False,False,Malignant neoplasms
+2000,3,0,True,False,False,Other neoplasms
+2000,3,100,True,False,False,Diabetes mellitus
+2000,3,0,True,False,False,"Endocrine, blood, immune disorders"
+2000,3,0,True,False,False,Mental and substance use disorders
+2000,3,0,True,False,False,Neurological conditions
+2000,3,0,True,False,False,Sense organ diseases
+2000,3,900,True,False,False,Cardiovascular diseases
+2000,3,100,True,False,False,Respiratory diseases
+2000,3,200,True,False,False,Digestive diseases
+2000,3,200,True,False,False,Genitourinary diseases
+2000,3,0,True,False,False,Skin diseases
+2000,3,0,True,False,False,Musculoskeletal diseases
+2000,3,0,True,False,False,Congenital anomalies
+2000,3,0,True,False,False,Oral conditions
+2000,3,0,True,False,False,Sudden infant death syndrome
+2000,3,400,True,False,False,Unintentional injuries
+2000,3,100,True,False,False,Intentional injuries
+2000,3,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2021,3,2600,False,False,True,Infectious and parasitic diseases
+2021,3,5500,False,False,True,Respiratory Infectious 
+2021,3,100,False,False,True,Maternal conditions
+2021,3,0,False,False,True,Neonatal conditions
+2021,3,0,False,False,True,Nutritional deficiencies
+2021,3,4700,False,False,True,Malignant neoplasms
+2021,3,0,False,False,True,Other neoplasms
+2021,3,500,False,False,True,Diabetes mellitus
+2021,3,100,False,False,True,"Endocrine, blood, immune disorders"
+2021,3,100,False,False,True,Mental and substance use disorders
+2021,3,100,False,False,True,Neurological conditions
+2021,3,0,False,False,True,Sense organ diseases
+2021,3,6400,False,False,True,Cardiovascular diseases
+2021,3,500,False,False,True,Respiratory diseases
+2021,3,1600,False,False,True,Digestive diseases
+2021,3,1100,False,False,True,Genitourinary diseases
+2021,3,200,False,False,True,Skin diseases
+2021,3,100,False,False,True,Musculoskeletal diseases
+2021,3,100,False,False,True,Congenital anomalies
+2021,3,0,False,False,True,Oral conditions
+2021,3,0,False,False,True,Sudden infant death syndrome
+2021,3,2700,False,False,True,Unintentional injuries
+2021,3,1000,False,False,True,Intentional injuries
+2021,3,1200,False,False,True,Other COVID-19 pandemic-related outcomes
+2021,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,3,2100,False,True,False,Infectious and parasitic diseases
+2021,3,3700,False,True,False,Respiratory Infectious 
+2021,3,0,False,True,False,Maternal conditions
+2021,3,0,False,True,False,Neonatal conditions
+2021,3,0,False,True,False,Nutritional deficiencies
+2021,3,2100,False,True,False,Malignant neoplasms
+2021,3,0,False,True,False,Other neoplasms
+2021,3,300,False,True,False,Diabetes mellitus
+2021,3,100,False,True,False,"Endocrine, blood, immune disorders"
+2021,3,100,False,True,False,Mental and substance use disorders
+2021,3,100,False,True,False,Neurological conditions
+2021,3,0,False,True,False,Sense organ diseases
+2021,3,4900,False,True,False,Cardiovascular diseases
+2021,3,300,False,True,False,Respiratory diseases
+2021,3,1300,False,True,False,Digestive diseases
+2021,3,600,False,True,False,Genitourinary diseases
+2021,3,100,False,True,False,Skin diseases
+2021,3,0,False,True,False,Musculoskeletal diseases
+2021,3,0,False,True,False,Congenital anomalies
+2021,3,0,False,True,False,Oral conditions
+2021,3,0,False,True,False,Sudden infant death syndrome
+2021,3,2300,False,True,False,Unintentional injuries
+2021,3,800,False,True,False,Intentional injuries
+2021,3,800,False,True,False,Other COVID-19 pandemic-related outcomes
+2021,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,3,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,3,500,True,False,False,Infectious and parasitic diseases
+2021,3,1800,True,False,False,Respiratory Infectious 
+2021,3,100,True,False,False,Maternal conditions
+2021,3,0,True,False,False,Neonatal conditions
+2021,3,0,True,False,False,Nutritional deficiencies
+2021,3,2600,True,False,False,Malignant neoplasms
+2021,3,0,True,False,False,Other neoplasms
+2021,3,200,True,False,False,Diabetes mellitus
+2021,3,100,True,False,False,"Endocrine, blood, immune disorders"
+2021,3,0,True,False,False,Mental and substance use disorders
+2021,3,0,True,False,False,Neurological conditions
+2021,3,0,True,False,False,Sense organ diseases
+2021,3,1500,True,False,False,Cardiovascular diseases
+2021,3,200,True,False,False,Respiratory diseases
+2021,3,300,True,False,False,Digestive diseases
+2021,3,500,True,False,False,Genitourinary diseases
+2021,3,100,True,False,False,Skin diseases
+2021,3,100,True,False,False,Musculoskeletal diseases
+2021,3,0,True,False,False,Congenital anomalies
+2021,3,0,True,False,False,Oral conditions
+2021,3,0,True,False,False,Sudden infant death syndrome
+2021,3,400,True,False,False,Unintentional injuries
+2021,3,200,True,False,False,Intentional injuries
+2021,3,300,True,False,False,Other COVID-19 pandemic-related outcomes
+2000,0,400,False,False,True,Infectious and parasitic diseases
+2000,0,300,False,False,True,Respiratory Infectious 
+2000,0,0,False,False,True,Maternal conditions
+2000,0,2100,False,False,True,Neonatal conditions
+2000,0,0,False,False,True,Nutritional deficiencies
+2000,0,100,False,False,True,Malignant neoplasms
+2000,0,0,False,False,True,Other neoplasms
+2000,0,0,False,False,True,Diabetes mellitus
+2000,0,100,False,False,True,"Endocrine, blood, immune disorders"
+2000,0,0,False,False,True,Mental and substance use disorders
+2000,0,100,False,False,True,Neurological conditions
+2000,0,0,False,False,True,Sense organ diseases
+2000,0,100,False,False,True,Cardiovascular diseases
+2000,0,100,False,False,True,Respiratory diseases
+2000,0,100,False,False,True,Digestive diseases
+2000,0,0,False,False,True,Genitourinary diseases
+2000,0,0,False,False,True,Skin diseases
+2000,0,0,False,False,True,Musculoskeletal diseases
+2000,0,1500,False,False,True,Congenital anomalies
+2000,0,0,False,False,True,Oral conditions
+2000,0,100,False,False,True,Sudden infant death syndrome
+2000,0,400,False,False,True,Unintentional injuries
+2000,0,0,False,False,True,Intentional injuries
+2000,0,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2000,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,0,200,False,True,False,Infectious and parasitic diseases
+2000,0,200,False,True,False,Respiratory Infectious 
+2000,0,0,False,True,False,Maternal conditions
+2000,0,1200,False,True,False,Neonatal conditions
+2000,0,0,False,True,False,Nutritional deficiencies
+2000,0,100,False,True,False,Malignant neoplasms
+2000,0,0,False,True,False,Other neoplasms
+2000,0,0,False,True,False,Diabetes mellitus
+2000,0,0,False,True,False,"Endocrine, blood, immune disorders"
+2000,0,0,False,True,False,Mental and substance use disorders
+2000,0,0,False,True,False,Neurological conditions
+2000,0,0,False,True,False,Sense organ diseases
+2000,0,100,False,True,False,Cardiovascular diseases
+2000,0,0,False,True,False,Respiratory diseases
+2000,0,100,False,True,False,Digestive diseases
+2000,0,0,False,True,False,Genitourinary diseases
+2000,0,0,False,True,False,Skin diseases
+2000,0,0,False,True,False,Musculoskeletal diseases
+2000,0,800,False,True,False,Congenital anomalies
+2000,0,0,False,True,False,Oral conditions
+2000,0,100,False,True,False,Sudden infant death syndrome
+2000,0,200,False,True,False,Unintentional injuries
+2000,0,0,False,True,False,Intentional injuries
+2000,0,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2000,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,0,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,0,200,True,False,False,Infectious and parasitic diseases
+2000,0,100,True,False,False,Respiratory Infectious 
+2000,0,0,True,False,False,Maternal conditions
+2000,0,900,True,False,False,Neonatal conditions
+2000,0,0,True,False,False,Nutritional deficiencies
+2000,0,100,True,False,False,Malignant neoplasms
+2000,0,0,True,False,False,Other neoplasms
+2000,0,0,True,False,False,Diabetes mellitus
+2000,0,0,True,False,False,"Endocrine, blood, immune disorders"
+2000,0,0,True,False,False,Mental and substance use disorders
+2000,0,0,True,False,False,Neurological conditions
+2000,0,0,True,False,False,Sense organ diseases
+2000,0,100,True,False,False,Cardiovascular diseases
+2000,0,0,True,False,False,Respiratory diseases
+2000,0,100,True,False,False,Digestive diseases
+2000,0,0,True,False,False,Genitourinary diseases
+2000,0,0,True,False,False,Skin diseases
+2000,0,0,True,False,False,Musculoskeletal diseases
+2000,0,600,True,False,False,Congenital anomalies
+2000,0,0,True,False,False,Oral conditions
+2000,0,0,True,False,False,Sudden infant death syndrome
+2000,0,200,True,False,False,Unintentional injuries
+2000,0,0,True,False,False,Intentional injuries
+2000,0,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2021,1,100,False,False,True,Infectious and parasitic diseases
+2021,1,300,False,False,True,Respiratory Infectious 
+2021,1,0,False,False,True,Maternal conditions
+2021,1,0,False,False,True,Neonatal conditions
+2021,1,0,False,False,True,Nutritional deficiencies
+2021,1,200,False,False,True,Malignant neoplasms
+2021,1,0,False,False,True,Other neoplasms
+2021,1,0,False,False,True,Diabetes mellitus
+2021,1,0,False,False,True,"Endocrine, blood, immune disorders"
+2021,1,0,False,False,True,Mental and substance use disorders
+2021,1,0,False,False,True,Neurological conditions
+2021,1,0,False,False,True,Sense organ diseases
+2021,1,0,False,False,True,Cardiovascular diseases
+2021,1,0,False,False,True,Respiratory diseases
+2021,1,0,False,False,True,Digestive diseases
+2021,1,0,False,False,True,Genitourinary diseases
+2021,1,0,False,False,True,Skin diseases
+2021,1,0,False,False,True,Musculoskeletal diseases
+2021,1,100,False,False,True,Congenital anomalies
+2021,1,0,False,False,True,Oral conditions
+2021,1,0,False,False,True,Sudden infant death syndrome
+2021,1,200,False,False,True,Unintentional injuries
+2021,1,0,False,False,True,Intentional injuries
+2021,1,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2021,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,1,0,False,True,False,Infectious and parasitic diseases
+2021,1,200,False,True,False,Respiratory Infectious 
+2021,1,0,False,True,False,Maternal conditions
+2021,1,0,False,True,False,Neonatal conditions
+2021,1,0,False,True,False,Nutritional deficiencies
+2021,1,100,False,True,False,Malignant neoplasms
+2021,1,0,False,True,False,Other neoplasms
+2021,1,0,False,True,False,Diabetes mellitus
+2021,1,0,False,True,False,"Endocrine, blood, immune disorders"
+2021,1,0,False,True,False,Mental and substance use disorders
+2021,1,0,False,True,False,Neurological conditions
+2021,1,0,False,True,False,Sense organ diseases
+2021,1,0,False,True,False,Cardiovascular diseases
+2021,1,0,False,True,False,Respiratory diseases
+2021,1,0,False,True,False,Digestive diseases
+2021,1,0,False,True,False,Genitourinary diseases
+2021,1,0,False,True,False,Skin diseases
+2021,1,0,False,True,False,Musculoskeletal diseases
+2021,1,0,False,True,False,Congenital anomalies
+2021,1,0,False,True,False,Oral conditions
+2021,1,0,False,True,False,Sudden infant death syndrome
+2021,1,200,False,True,False,Unintentional injuries
+2021,1,0,False,True,False,Intentional injuries
+2021,1,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2021,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,1,0,True,False,False,Infectious and parasitic diseases
+2021,1,100,True,False,False,Respiratory Infectious 
+2021,1,0,True,False,False,Maternal conditions
+2021,1,0,True,False,False,Neonatal conditions
+2021,1,0,True,False,False,Nutritional deficiencies
+2021,1,100,True,False,False,Malignant neoplasms
+2021,1,0,True,False,False,Other neoplasms
+2021,1,0,True,False,False,Diabetes mellitus
+2021,1,0,True,False,False,"Endocrine, blood, immune disorders"
+2021,1,0,True,False,False,Mental and substance use disorders
+2021,1,0,True,False,False,Neurological conditions
+2021,1,0,True,False,False,Sense organ diseases
+2021,1,0,True,False,False,Cardiovascular diseases
+2021,1,0,True,False,False,Respiratory diseases
+2021,1,0,True,False,False,Digestive diseases
+2021,1,0,True,False,False,Genitourinary diseases
+2021,1,0,True,False,False,Skin diseases
+2021,1,0,True,False,False,Musculoskeletal diseases
+2021,1,0,True,False,False,Congenital anomalies
+2021,1,0,True,False,False,Oral conditions
+2021,1,0,True,False,False,Sudden infant death syndrome
+2021,1,100,True,False,False,Unintentional injuries
+2021,1,0,True,False,False,Intentional injuries
+2021,1,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2020,1,100,False,False,True,Infectious and parasitic diseases
+2020,1,100,False,False,True,Respiratory Infectious 
+2020,1,0,False,False,True,Maternal conditions
+2020,1,0,False,False,True,Neonatal conditions
+2020,1,0,False,False,True,Nutritional deficiencies
+2020,1,300,False,False,True,Malignant neoplasms
+2020,1,0,False,False,True,Other neoplasms
+2020,1,0,False,False,True,Diabetes mellitus
+2020,1,0,False,False,True,"Endocrine, blood, immune disorders"
+2020,1,0,False,False,True,Mental and substance use disorders
+2020,1,0,False,False,True,Neurological conditions
+2020,1,0,False,False,True,Sense organ diseases
+2020,1,0,False,False,True,Cardiovascular diseases
+2020,1,0,False,False,True,Respiratory diseases
+2020,1,0,False,False,True,Digestive diseases
+2020,1,0,False,False,True,Genitourinary diseases
+2020,1,0,False,False,True,Skin diseases
+2020,1,0,False,False,True,Musculoskeletal diseases
+2020,1,100,False,False,True,Congenital anomalies
+2020,1,0,False,False,True,Oral conditions
+2020,1,0,False,False,True,Sudden infant death syndrome
+2020,1,300,False,False,True,Unintentional injuries
+2020,1,0,False,False,True,Intentional injuries
+2020,1,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2020,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,1,100,False,True,False,Infectious and parasitic diseases
+2020,1,100,False,True,False,Respiratory Infectious 
+2020,1,0,False,True,False,Maternal conditions
+2020,1,0,False,True,False,Neonatal conditions
+2020,1,0,False,True,False,Nutritional deficiencies
+2020,1,200,False,True,False,Malignant neoplasms
+2020,1,0,False,True,False,Other neoplasms
+2020,1,0,False,True,False,Diabetes mellitus
+2020,1,0,False,True,False,"Endocrine, blood, immune disorders"
+2020,1,0,False,True,False,Mental and substance use disorders
+2020,1,0,False,True,False,Neurological conditions
+2020,1,0,False,True,False,Sense organ diseases
+2020,1,0,False,True,False,Cardiovascular diseases
+2020,1,0,False,True,False,Respiratory diseases
+2020,1,0,False,True,False,Digestive diseases
+2020,1,0,False,True,False,Genitourinary diseases
+2020,1,0,False,True,False,Skin diseases
+2020,1,0,False,True,False,Musculoskeletal diseases
+2020,1,0,False,True,False,Congenital anomalies
+2020,1,0,False,True,False,Oral conditions
+2020,1,0,False,True,False,Sudden infant death syndrome
+2020,1,200,False,True,False,Unintentional injuries
+2020,1,0,False,True,False,Intentional injuries
+2020,1,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2020,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,1,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,1,100,True,False,False,Infectious and parasitic diseases
+2020,1,0,True,False,False,Respiratory Infectious 
+2020,1,0,True,False,False,Maternal conditions
+2020,1,0,True,False,False,Neonatal conditions
+2020,1,0,True,False,False,Nutritional deficiencies
+2020,1,100,True,False,False,Malignant neoplasms
+2020,1,0,True,False,False,Other neoplasms
+2020,1,0,True,False,False,Diabetes mellitus
+2020,1,0,True,False,False,"Endocrine, blood, immune disorders"
+2020,1,0,True,False,False,Mental and substance use disorders
+2020,1,0,True,False,False,Neurological conditions
+2020,1,0,True,False,False,Sense organ diseases
+2020,1,0,True,False,False,Cardiovascular diseases
+2020,1,0,True,False,False,Respiratory diseases
+2020,1,0,True,False,False,Digestive diseases
+2020,1,0,True,False,False,Genitourinary diseases
+2020,1,0,True,False,False,Skin diseases
+2020,1,0,True,False,False,Musculoskeletal diseases
+2020,1,0,True,False,False,Congenital anomalies
+2020,1,0,True,False,False,Oral conditions
+2020,1,0,True,False,False,Sudden infant death syndrome
+2020,1,100,True,False,False,Unintentional injuries
+2020,1,0,True,False,False,Intentional injuries
+2020,1,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2020,4,1200,False,False,True,Infectious and parasitic diseases
+2020,4,1900,False,False,True,Respiratory Infectious 
+2020,4,0,False,False,True,Maternal conditions
+2020,4,0,False,False,True,Neonatal conditions
+2020,4,0,False,False,True,Nutritional deficiencies
+2020,4,4600,False,False,True,Malignant neoplasms
+2020,4,0,False,False,True,Other neoplasms
+2020,4,900,False,False,True,Diabetes mellitus
+2020,4,100,False,False,True,"Endocrine, blood, immune disorders"
+2020,4,0,False,False,True,Mental and substance use disorders
+2020,4,200,False,False,True,Neurological conditions
+2020,4,0,False,False,True,Sense organ diseases
+2020,4,9200,False,False,True,Cardiovascular diseases
+2020,4,700,False,False,True,Respiratory diseases
+2020,4,1700,False,False,True,Digestive diseases
+2020,4,1500,False,False,True,Genitourinary diseases
+2020,4,200,False,False,True,Skin diseases
+2020,4,0,False,False,True,Musculoskeletal diseases
+2020,4,0,False,False,True,Congenital anomalies
+2020,4,0,False,False,True,Oral conditions
+2020,4,0,False,False,True,Sudden infant death syndrome
+2020,4,1400,False,False,True,Unintentional injuries
+2020,4,400,False,False,True,Intentional injuries
+2020,4,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2020,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,4,900,False,True,False,Infectious and parasitic diseases
+2020,4,1300,False,True,False,Respiratory Infectious 
+2020,4,0,False,True,False,Maternal conditions
+2020,4,0,False,True,False,Neonatal conditions
+2020,4,0,False,True,False,Nutritional deficiencies
+2020,4,2400,False,True,False,Malignant neoplasms
+2020,4,0,False,True,False,Other neoplasms
+2020,4,500,False,True,False,Diabetes mellitus
+2020,4,100,False,True,False,"Endocrine, blood, immune disorders"
+2020,4,0,False,True,False,Mental and substance use disorders
+2020,4,100,False,True,False,Neurological conditions
+2020,4,0,False,True,False,Sense organ diseases
+2020,4,6500,False,True,False,Cardiovascular diseases
+2020,4,500,False,True,False,Respiratory diseases
+2020,4,1300,False,True,False,Digestive diseases
+2020,4,800,False,True,False,Genitourinary diseases
+2020,4,100,False,True,False,Skin diseases
+2020,4,0,False,True,False,Musculoskeletal diseases
+2020,4,0,False,True,False,Congenital anomalies
+2020,4,0,False,True,False,Oral conditions
+2020,4,0,False,True,False,Sudden infant death syndrome
+2020,4,1100,False,True,False,Unintentional injuries
+2020,4,300,False,True,False,Intentional injuries
+2020,4,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2020,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,4,300,True,False,False,Infectious and parasitic diseases
+2020,4,700,True,False,False,Respiratory Infectious 
+2020,4,0,True,False,False,Maternal conditions
+2020,4,0,True,False,False,Neonatal conditions
+2020,4,0,True,False,False,Nutritional deficiencies
+2020,4,2100,True,False,False,Malignant neoplasms
+2020,4,0,True,False,False,Other neoplasms
+2020,4,500,True,False,False,Diabetes mellitus
+2020,4,100,True,False,False,"Endocrine, blood, immune disorders"
+2020,4,0,True,False,False,Mental and substance use disorders
+2020,4,100,True,False,False,Neurological conditions
+2020,4,0,True,False,False,Sense organ diseases
+2020,4,2700,True,False,False,Cardiovascular diseases
+2020,4,200,True,False,False,Respiratory diseases
+2020,4,400,True,False,False,Digestive diseases
+2020,4,700,True,False,False,Genitourinary diseases
+2020,4,100,True,False,False,Skin diseases
+2020,4,0,True,False,False,Musculoskeletal diseases
+2020,4,0,True,False,False,Congenital anomalies
+2020,4,0,True,False,False,Oral conditions
+2020,4,0,True,False,False,Sudden infant death syndrome
+2020,4,300,True,False,False,Unintentional injuries
+2020,4,100,True,False,False,Intentional injuries
+2020,4,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2000,6,1200,False,False,True,Infectious and parasitic diseases
+2000,6,3200,False,False,True,Respiratory Infectious 
+2000,6,0,False,False,True,Maternal conditions
+2000,6,0,False,False,True,Neonatal conditions
+2000,6,100,False,False,True,Nutritional deficiencies
+2000,6,4700,False,False,True,Malignant neoplasms
+2000,6,0,False,False,True,Other neoplasms
+2000,6,1200,False,False,True,Diabetes mellitus
+2000,6,100,False,False,True,"Endocrine, blood, immune disorders"
+2000,6,0,False,False,True,Mental and substance use disorders
+2000,6,1800,False,False,True,Neurological conditions
+2000,6,0,False,False,True,Sense organ diseases
+2000,6,17700,False,False,True,Cardiovascular diseases
+2000,6,3400,False,False,True,Respiratory diseases
+2000,6,2400,False,False,True,Digestive diseases
+2000,6,1700,False,False,True,Genitourinary diseases
+2000,6,200,False,False,True,Skin diseases
+2000,6,0,False,False,True,Musculoskeletal diseases
+2000,6,0,False,False,True,Congenital anomalies
+2000,6,0,False,False,True,Oral conditions
+2000,6,0,False,False,True,Sudden infant death syndrome
+2000,6,1200,False,False,True,Unintentional injuries
+2000,6,100,False,False,True,Intentional injuries
+2000,6,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2000,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,6,700,False,True,False,Infectious and parasitic diseases
+2000,6,1500,False,True,False,Respiratory Infectious 
+2000,6,0,False,True,False,Maternal conditions
+2000,6,0,False,True,False,Neonatal conditions
+2000,6,100,False,True,False,Nutritional deficiencies
+2000,6,2700,False,True,False,Malignant neoplasms
+2000,6,0,False,True,False,Other neoplasms
+2000,6,500,False,True,False,Diabetes mellitus
+2000,6,100,False,True,False,"Endocrine, blood, immune disorders"
+2000,6,0,False,True,False,Mental and substance use disorders
+2000,6,600,False,True,False,Neurological conditions
+2000,6,0,False,True,False,Sense organ diseases
+2000,6,7900,False,True,False,Cardiovascular diseases
+2000,6,2200,False,True,False,Respiratory diseases
+2000,6,1200,False,True,False,Digestive diseases
+2000,6,700,False,True,False,Genitourinary diseases
+2000,6,100,False,True,False,Skin diseases
+2000,6,0,False,True,False,Musculoskeletal diseases
+2000,6,0,False,True,False,Congenital anomalies
+2000,6,0,False,True,False,Oral conditions
+2000,6,0,False,True,False,Sudden infant death syndrome
+2000,6,800,False,True,False,Unintentional injuries
+2000,6,100,False,True,False,Intentional injuries
+2000,6,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2000,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,6,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,6,500,True,False,False,Infectious and parasitic diseases
+2000,6,1700,True,False,False,Respiratory Infectious 
+2000,6,0,True,False,False,Maternal conditions
+2000,6,0,True,False,False,Neonatal conditions
+2000,6,100,True,False,False,Nutritional deficiencies
+2000,6,2000,True,False,False,Malignant neoplasms
+2000,6,0,True,False,False,Other neoplasms
+2000,6,700,True,False,False,Diabetes mellitus
+2000,6,100,True,False,False,"Endocrine, blood, immune disorders"
+2000,6,0,True,False,False,Mental and substance use disorders
+2000,6,1200,True,False,False,Neurological conditions
+2000,6,0,True,False,False,Sense organ diseases
+2000,6,9800,True,False,False,Cardiovascular diseases
+2000,6,1200,True,False,False,Respiratory diseases
+2000,6,1300,True,False,False,Digestive diseases
+2000,6,1000,True,False,False,Genitourinary diseases
+2000,6,100,True,False,False,Skin diseases
+2000,6,0,True,False,False,Musculoskeletal diseases
+2000,6,0,True,False,False,Congenital anomalies
+2000,6,0,True,False,False,Oral conditions
+2000,6,0,True,False,False,Sudden infant death syndrome
+2000,6,400,True,False,False,Unintentional injuries
+2000,6,0,True,False,False,Intentional injuries
+2000,6,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2000,2,600,False,False,True,Infectious and parasitic diseases
+2000,2,200,False,False,True,Respiratory Infectious 
+2000,2,100,False,False,True,Maternal conditions
+2000,2,0,False,False,True,Neonatal conditions
+2000,2,0,False,False,True,Nutritional deficiencies
+2000,2,500,False,False,True,Malignant neoplasms
+2000,2,0,False,False,True,Other neoplasms
+2000,2,0,False,False,True,Diabetes mellitus
+2000,2,0,False,False,True,"Endocrine, blood, immune disorders"
+2000,2,0,False,False,True,Mental and substance use disorders
+2000,2,0,False,False,True,Neurological conditions
+2000,2,0,False,False,True,Sense organ diseases
+2000,2,400,False,False,True,Cardiovascular diseases
+2000,2,100,False,False,True,Respiratory diseases
+2000,2,200,False,False,True,Digestive diseases
+2000,2,100,False,False,True,Genitourinary diseases
+2000,2,0,False,False,True,Skin diseases
+2000,2,0,False,False,True,Musculoskeletal diseases
+2000,2,100,False,False,True,Congenital anomalies
+2000,2,0,False,False,True,Oral conditions
+2000,2,0,False,False,True,Sudden infant death syndrome
+2000,2,3100,False,False,True,Unintentional injuries
+2000,2,600,False,False,True,Intentional injuries
+2000,2,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2000,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,2,500,False,True,False,Infectious and parasitic diseases
+2000,2,100,False,True,False,Respiratory Infectious 
+2000,2,0,False,True,False,Maternal conditions
+2000,2,0,False,True,False,Neonatal conditions
+2000,2,0,False,True,False,Nutritional deficiencies
+2000,2,300,False,True,False,Malignant neoplasms
+2000,2,0,False,True,False,Other neoplasms
+2000,2,0,False,True,False,Diabetes mellitus
+2000,2,0,False,True,False,"Endocrine, blood, immune disorders"
+2000,2,0,False,True,False,Mental and substance use disorders
+2000,2,0,False,True,False,Neurological conditions
+2000,2,0,False,True,False,Sense organ diseases
+2000,2,300,False,True,False,Cardiovascular diseases
+2000,2,0,False,True,False,Respiratory diseases
+2000,2,100,False,True,False,Digestive diseases
+2000,2,100,False,True,False,Genitourinary diseases
+2000,2,0,False,True,False,Skin diseases
+2000,2,0,False,True,False,Musculoskeletal diseases
+2000,2,0,False,True,False,Congenital anomalies
+2000,2,0,False,True,False,Oral conditions
+2000,2,0,False,True,False,Sudden infant death syndrome
+2000,2,2700,False,True,False,Unintentional injuries
+2000,2,500,False,True,False,Intentional injuries
+2000,2,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2000,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,2,200,True,False,False,Infectious and parasitic diseases
+2000,2,100,True,False,False,Respiratory Infectious 
+2000,2,100,True,False,False,Maternal conditions
+2000,2,0,True,False,False,Neonatal conditions
+2000,2,0,True,False,False,Nutritional deficiencies
+2000,2,200,True,False,False,Malignant neoplasms
+2000,2,0,True,False,False,Other neoplasms
+2000,2,0,True,False,False,Diabetes mellitus
+2000,2,0,True,False,False,"Endocrine, blood, immune disorders"
+2000,2,0,True,False,False,Mental and substance use disorders
+2000,2,0,True,False,False,Neurological conditions
+2000,2,0,True,False,False,Sense organ diseases
+2000,2,100,True,False,False,Cardiovascular diseases
+2000,2,0,True,False,False,Respiratory diseases
+2000,2,100,True,False,False,Digestive diseases
+2000,2,100,True,False,False,Genitourinary diseases
+2000,2,0,True,False,False,Skin diseases
+2000,2,0,True,False,False,Musculoskeletal diseases
+2000,2,0,True,False,False,Congenital anomalies
+2000,2,0,True,False,False,Oral conditions
+2000,2,0,True,False,False,Sudden infant death syndrome
+2000,2,400,True,False,False,Unintentional injuries
+2000,2,100,True,False,False,Intentional injuries
+2000,2,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2021,2,500,False,False,True,Infectious and parasitic diseases
+2021,2,900,False,False,True,Respiratory Infectious 
+2021,2,0,False,False,True,Maternal conditions
+2021,2,0,False,False,True,Neonatal conditions
+2021,2,0,False,False,True,Nutritional deficiencies
+2021,2,700,False,False,True,Malignant neoplasms
+2021,2,0,False,False,True,Other neoplasms
+2021,2,100,False,False,True,Diabetes mellitus
+2021,2,100,False,False,True,"Endocrine, blood, immune disorders"
+2021,2,0,False,False,True,Mental and substance use disorders
+2021,2,100,False,False,True,Neurological conditions
+2021,2,0,False,False,True,Sense organ diseases
+2021,2,700,False,False,True,Cardiovascular diseases
+2021,2,100,False,False,True,Respiratory diseases
+2021,2,200,False,False,True,Digestive diseases
+2021,2,200,False,False,True,Genitourinary diseases
+2021,2,0,False,False,True,Skin diseases
+2021,2,100,False,False,True,Musculoskeletal diseases
+2021,2,100,False,False,True,Congenital anomalies
+2021,2,0,False,False,True,Oral conditions
+2021,2,0,False,False,True,Sudden infant death syndrome
+2021,2,2500,False,False,True,Unintentional injuries
+2021,2,900,False,False,True,Intentional injuries
+2021,2,200,False,False,True,Other COVID-19 pandemic-related outcomes
+2021,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,2,400,False,True,False,Infectious and parasitic diseases
+2021,2,600,False,True,False,Respiratory Infectious 
+2021,2,0,False,True,False,Maternal conditions
+2021,2,0,False,True,False,Neonatal conditions
+2021,2,0,False,True,False,Nutritional deficiencies
+2021,2,400,False,True,False,Malignant neoplasms
+2021,2,0,False,True,False,Other neoplasms
+2021,2,0,False,True,False,Diabetes mellitus
+2021,2,0,False,True,False,"Endocrine, blood, immune disorders"
+2021,2,0,False,True,False,Mental and substance use disorders
+2021,2,100,False,True,False,Neurological conditions
+2021,2,0,False,True,False,Sense organ diseases
+2021,2,500,False,True,False,Cardiovascular diseases
+2021,2,100,False,True,False,Respiratory diseases
+2021,2,200,False,True,False,Digestive diseases
+2021,2,200,False,True,False,Genitourinary diseases
+2021,2,0,False,True,False,Skin diseases
+2021,2,0,False,True,False,Musculoskeletal diseases
+2021,2,100,False,True,False,Congenital anomalies
+2021,2,0,False,True,False,Oral conditions
+2021,2,0,False,True,False,Sudden infant death syndrome
+2021,2,2200,False,True,False,Unintentional injuries
+2021,2,700,False,True,False,Intentional injuries
+2021,2,100,False,True,False,Other COVID-19 pandemic-related outcomes
+2021,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,2,100,True,False,False,Infectious and parasitic diseases
+2021,2,300,True,False,False,Respiratory Infectious 
+2021,2,0,True,False,False,Maternal conditions
+2021,2,0,True,False,False,Neonatal conditions
+2021,2,0,True,False,False,Nutritional deficiencies
+2021,2,300,True,False,False,Malignant neoplasms
+2021,2,0,True,False,False,Other neoplasms
+2021,2,0,True,False,False,Diabetes mellitus
+2021,2,0,True,False,False,"Endocrine, blood, immune disorders"
+2021,2,0,True,False,False,Mental and substance use disorders
+2021,2,0,True,False,False,Neurological conditions
+2021,2,0,True,False,False,Sense organ diseases
+2021,2,100,True,False,False,Cardiovascular diseases
+2021,2,0,True,False,False,Respiratory diseases
+2021,2,0,True,False,False,Digestive diseases
+2021,2,100,True,False,False,Genitourinary diseases
+2021,2,0,True,False,False,Skin diseases
+2021,2,0,True,False,False,Musculoskeletal diseases
+2021,2,0,True,False,False,Congenital anomalies
+2021,2,0,True,False,False,Oral conditions
+2021,2,0,True,False,False,Sudden infant death syndrome
+2021,2,200,True,False,False,Unintentional injuries
+2021,2,100,True,False,False,Intentional injuries
+2021,2,100,True,False,False,Other COVID-19 pandemic-related outcomes
+2000,4,1000,False,False,True,Infectious and parasitic diseases
+2000,4,700,False,False,True,Respiratory Infectious 
+2000,4,0,False,False,True,Maternal conditions
+2000,4,0,False,False,True,Neonatal conditions
+2000,4,0,False,False,True,Nutritional deficiencies
+2000,4,2300,False,False,True,Malignant neoplasms
+2000,4,0,False,False,True,Other neoplasms
+2000,4,600,False,False,True,Diabetes mellitus
+2000,4,100,False,False,True,"Endocrine, blood, immune disorders"
+2000,4,0,False,False,True,Mental and substance use disorders
+2000,4,100,False,False,True,Neurological conditions
+2000,4,0,False,False,True,Sense organ diseases
+2000,4,4800,False,False,True,Cardiovascular diseases
+2000,4,500,False,False,True,Respiratory diseases
+2000,4,900,False,False,True,Digestive diseases
+2000,4,600,False,False,True,Genitourinary diseases
+2000,4,0,False,False,True,Skin diseases
+2000,4,0,False,False,True,Musculoskeletal diseases
+2000,4,0,False,False,True,Congenital anomalies
+2000,4,0,False,False,True,Oral conditions
+2000,4,0,False,False,True,Sudden infant death syndrome
+2000,4,1000,False,False,True,Unintentional injuries
+2000,4,200,False,False,True,Intentional injuries
+2000,4,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2000,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,4,800,False,True,False,Infectious and parasitic diseases
+2000,4,400,False,True,False,Respiratory Infectious 
+2000,4,0,False,True,False,Maternal conditions
+2000,4,0,False,True,False,Neonatal conditions
+2000,4,0,False,True,False,Nutritional deficiencies
+2000,4,1200,False,True,False,Malignant neoplasms
+2000,4,0,False,True,False,Other neoplasms
+2000,4,300,False,True,False,Diabetes mellitus
+2000,4,0,False,True,False,"Endocrine, blood, immune disorders"
+2000,4,0,False,True,False,Mental and substance use disorders
+2000,4,100,False,True,False,Neurological conditions
+2000,4,0,False,True,False,Sense organ diseases
+2000,4,3100,False,True,False,Cardiovascular diseases
+2000,4,300,False,True,False,Respiratory diseases
+2000,4,600,False,True,False,Digestive diseases
+2000,4,300,False,True,False,Genitourinary diseases
+2000,4,0,False,True,False,Skin diseases
+2000,4,0,False,True,False,Musculoskeletal diseases
+2000,4,0,False,True,False,Congenital anomalies
+2000,4,0,False,True,False,Oral conditions
+2000,4,0,False,True,False,Sudden infant death syndrome
+2000,4,800,False,True,False,Unintentional injuries
+2000,4,200,False,True,False,Intentional injuries
+2000,4,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2000,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2000,4,200,True,False,False,Infectious and parasitic diseases
+2000,4,300,True,False,False,Respiratory Infectious 
+2000,4,0,True,False,False,Maternal conditions
+2000,4,0,True,False,False,Neonatal conditions
+2000,4,0,True,False,False,Nutritional deficiencies
+2000,4,1000,True,False,False,Malignant neoplasms
+2000,4,0,True,False,False,Other neoplasms
+2000,4,300,True,False,False,Diabetes mellitus
+2000,4,0,True,False,False,"Endocrine, blood, immune disorders"
+2000,4,0,True,False,False,Mental and substance use disorders
+2000,4,100,True,False,False,Neurological conditions
+2000,4,0,True,False,False,Sense organ diseases
+2000,4,1600,True,False,False,Cardiovascular diseases
+2000,4,200,True,False,False,Respiratory diseases
+2000,4,300,True,False,False,Digestive diseases
+2000,4,300,True,False,False,Genitourinary diseases
+2000,4,0,True,False,False,Skin diseases
+2000,4,0,True,False,False,Musculoskeletal diseases
+2000,4,0,True,False,False,Congenital anomalies
+2000,4,0,True,False,False,Oral conditions
+2000,4,0,True,False,False,Sudden infant death syndrome
+2000,4,200,True,False,False,Unintentional injuries
+2000,4,0,True,False,False,Intentional injuries
+2000,4,0,True,False,False,Other COVID-19 pandemic-related outcomes
+2021,4,1400,False,False,True,Infectious and parasitic diseases
+2021,4,6200,False,False,True,Respiratory Infectious 
+2021,4,0,False,False,True,Maternal conditions
+2021,4,0,False,False,True,Neonatal conditions
+2021,4,0,False,False,True,Nutritional deficiencies
+2021,4,5400,False,False,True,Malignant neoplasms
+2021,4,0,False,False,True,Other neoplasms
+2021,4,1100,False,False,True,Diabetes mellitus
+2021,4,100,False,False,True,"Endocrine, blood, immune disorders"
+2021,4,100,False,False,True,Mental and substance use disorders
+2021,4,300,False,False,True,Neurological conditions
+2021,4,0,False,False,True,Sense organ diseases
+2021,4,11100,False,False,True,Cardiovascular diseases
+2021,4,800,False,False,True,Respiratory diseases
+2021,4,2000,False,False,True,Digestive diseases
+2021,4,1800,False,False,True,Genitourinary diseases
+2021,4,300,False,False,True,Skin diseases
+2021,4,100,False,False,True,Musculoskeletal diseases
+2021,4,0,False,False,True,Congenital anomalies
+2021,4,0,False,False,True,Oral conditions
+2021,4,0,False,False,True,Sudden infant death syndrome
+2021,4,1500,False,False,True,Unintentional injuries
+2021,4,400,False,False,True,Intentional injuries
+2021,4,1200,False,False,True,Other COVID-19 pandemic-related outcomes
+2021,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,4,1000,False,True,False,Infectious and parasitic diseases
+2021,4,3900,False,True,False,Respiratory Infectious 
+2021,4,0,False,True,False,Maternal conditions
+2021,4,0,False,True,False,Neonatal conditions
+2021,4,0,False,True,False,Nutritional deficiencies
+2021,4,2700,False,True,False,Malignant neoplasms
+2021,4,0,False,True,False,Other neoplasms
+2021,4,600,False,True,False,Diabetes mellitus
+2021,4,100,False,True,False,"Endocrine, blood, immune disorders"
+2021,4,100,False,True,False,Mental and substance use disorders
+2021,4,100,False,True,False,Neurological conditions
+2021,4,0,False,True,False,Sense organ diseases
+2021,4,7600,False,True,False,Cardiovascular diseases
+2021,4,500,False,True,False,Respiratory diseases
+2021,4,1500,False,True,False,Digestive diseases
+2021,4,900,False,True,False,Genitourinary diseases
+2021,4,100,False,True,False,Skin diseases
+2021,4,0,False,True,False,Musculoskeletal diseases
+2021,4,0,False,True,False,Congenital anomalies
+2021,4,0,False,True,False,Oral conditions
+2021,4,0,False,True,False,Sudden infant death syndrome
+2021,4,1100,False,True,False,Unintentional injuries
+2021,4,300,False,True,False,Intentional injuries
+2021,4,800,False,True,False,Other COVID-19 pandemic-related outcomes
+2021,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,4,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2021,4,400,True,False,False,Infectious and parasitic diseases
+2021,4,2300,True,False,False,Respiratory Infectious 
+2021,4,0,True,False,False,Maternal conditions
+2021,4,0,True,False,False,Neonatal conditions
+2021,4,0,True,False,False,Nutritional deficiencies
+2021,4,2700,True,False,False,Malignant neoplasms
+2021,4,0,True,False,False,Other neoplasms
+2021,4,600,True,False,False,Diabetes mellitus
+2021,4,100,True,False,False,"Endocrine, blood, immune disorders"
+2021,4,0,True,False,False,Mental and substance use disorders
+2021,4,100,True,False,False,Neurological conditions
+2021,4,0,True,False,False,Sense organ diseases
+2021,4,3500,True,False,False,Cardiovascular diseases
+2021,4,300,True,False,False,Respiratory diseases
+2021,4,500,True,False,False,Digestive diseases
+2021,4,900,True,False,False,Genitourinary diseases
+2021,4,100,True,False,False,Skin diseases
+2021,4,0,True,False,False,Musculoskeletal diseases
+2021,4,0,True,False,False,Congenital anomalies
+2021,4,0,True,False,False,Oral conditions
+2021,4,0,True,False,False,Sudden infant death syndrome
+2021,4,300,True,False,False,Unintentional injuries
+2021,4,100,True,False,False,Intentional injuries
+2021,4,300,True,False,False,Other COVID-19 pandemic-related outcomes
+2020,2,400,False,False,True,Infectious and parasitic diseases
+2020,2,200,False,False,True,Respiratory Infectious 
+2020,2,0,False,False,True,Maternal conditions
+2020,2,0,False,False,True,Neonatal conditions
+2020,2,0,False,False,True,Nutritional deficiencies
+2020,2,500,False,False,True,Malignant neoplasms
+2020,2,0,False,False,True,Other neoplasms
+2020,2,0,False,False,True,Diabetes mellitus
+2020,2,0,False,False,True,"Endocrine, blood, immune disorders"
+2020,2,0,False,False,True,Mental and substance use disorders
+2020,2,0,False,False,True,Neurological conditions
+2020,2,0,False,False,True,Sense organ diseases
+2020,2,400,False,False,True,Cardiovascular diseases
+2020,2,100,False,False,True,Respiratory diseases
+2020,2,100,False,False,True,Digestive diseases
+2020,2,100,False,False,True,Genitourinary diseases
+2020,2,0,False,False,True,Skin diseases
+2020,2,0,False,False,True,Musculoskeletal diseases
+2020,2,100,False,False,True,Congenital anomalies
+2020,2,0,False,False,True,Oral conditions
+2020,2,0,False,False,True,Sudden infant death syndrome
+2020,2,1600,False,False,True,Unintentional injuries
+2020,2,600,False,False,True,Intentional injuries
+2020,2,0,False,False,True,Other COVID-19 pandemic-related outcomes
+2020,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,2,300,False,True,False,Infectious and parasitic diseases
+2020,2,100,False,True,False,Respiratory Infectious 
+2020,2,0,False,True,False,Maternal conditions
+2020,2,0,False,True,False,Neonatal conditions
+2020,2,0,False,True,False,Nutritional deficiencies
+2020,2,200,False,True,False,Malignant neoplasms
+2020,2,0,False,True,False,Other neoplasms
+2020,2,0,False,True,False,Diabetes mellitus
+2020,2,0,False,True,False,"Endocrine, blood, immune disorders"
+2020,2,0,False,True,False,Mental and substance use disorders
+2020,2,0,False,True,False,Neurological conditions
+2020,2,0,False,True,False,Sense organ diseases
+2020,2,300,False,True,False,Cardiovascular diseases
+2020,2,0,False,True,False,Respiratory diseases
+2020,2,100,False,True,False,Digestive diseases
+2020,2,100,False,True,False,Genitourinary diseases
+2020,2,0,False,True,False,Skin diseases
+2020,2,0,False,True,False,Musculoskeletal diseases
+2020,2,0,False,True,False,Congenital anomalies
+2020,2,0,False,True,False,Oral conditions
+2020,2,0,False,True,False,Sudden infant death syndrome
+2020,2,1400,False,True,False,Unintentional injuries
+2020,2,500,False,True,False,Intentional injuries
+2020,2,0,False,True,False,Other COVID-19 pandemic-related outcomes
+2020,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,2,0,False,False,False,Other COVID-19 pandemic-related outcomes
+2020,2,100,True,False,False,Infectious and parasitic diseases
+2020,2,100,True,False,False,Respiratory Infectious 
+2020,2,0,True,False,False,Maternal conditions
+2020,2,0,True,False,False,Neonatal conditions
+2020,2,0,True,False,False,Nutritional deficiencies
+2020,2,300,True,False,False,Malignant neoplasms
+2020,2,0,True,False,False,Other neoplasms
+2020,2,0,True,False,False,Diabetes mellitus
+2020,2,0,True,False,False,"Endocrine, blood, immune disorders"
+2020,2,0,True,False,False,Mental and substance use disorders
+2020,2,0,True,False,False,Neurological conditions
+2020,2,0,True,False,False,Sense organ diseases
+2020,2,100,True,False,False,Cardiovascular diseases
+2020,2,0,True,False,False,Respiratory diseases
+2020,2,0,True,False,False,Digestive diseases
+2020,2,100,True,False,False,Genitourinary diseases
+2020,2,0,True,False,False,Skin diseases
+2020,2,0,True,False,False,Musculoskeletal diseases
+2020,2,0,True,False,False,Congenital anomalies
+2020,2,0,True,False,False,Oral conditions
+2020,2,0,True,False,False,Sudden infant death syndrome
+2020,2,200,True,False,False,Unintentional injuries
+2020,2,100,True,False,False,Intentional injuries
+2020,2,0,True,False,False,Other COVID-19 pandemic-related outcomes
