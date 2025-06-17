@@ -1,0 +1,10 @@
+[tool.ruff]
+# Assumes Python 3.13
+target-version = "py313"
+
+[tool.basedpyright]
+include = ["src"]
+reportMissingImports = "error"
+reportMissingTypeStubs = false
+pythonVersion = "3.13"
+typeCheckingMode = "recommended"

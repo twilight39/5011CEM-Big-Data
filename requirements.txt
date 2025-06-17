@@ -1,0 +1,15 @@
+# Core Data Science Libraries
+pandas
+numpy
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+streamlit
+
+# Development & IDE
+jupyterlab
+ruff
+basedpyright
