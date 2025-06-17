@@ -8,3 +8,4 @@ reportMissingImports = "error"
 reportMissingTypeStubs = false
 pythonVersion = "3.13"
 typeCheckingMode = "recommended"
+allowedUntypedLibraries = ["pandas"]

@@ -11,5 +11,6 @@ streamlit
 
 # Development & IDE
 jupyterlab
+jupytext
 ruff
 basedpyright
