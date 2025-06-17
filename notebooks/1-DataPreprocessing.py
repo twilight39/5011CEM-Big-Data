@@ -1,8 +1,7 @@
-# This script preprocesses mortality data from Malaysia, extracting relevant information from CSV files and preparing it for analysis.
+# In this notebook, we preprocess mortality data from Malaysia, extracting relevant information from CSV files and preparing it for machine learning tasks. The final output is an aggregated EDA DataFrame that includes mortality counts by year, age group, sex, and disease categories.
 
-# Known Limitations:
-# 1. The script assumes that the CSV files follow a specific naming convention and structure.
-# 2. It does not handle cases where the data might be missing or malformed beyond basic error handling.
+# We also create a model-ready DataFrame that can be used for both classification and regression tasks, depending on the analysis needs.
+# This DataFrame removes higher-level aggregates and lower-level details, focusing on specific disease categories (L2) for classification tasks.
 
 # %%
 # This cell defines the preprocessing steps for the mortality data from Malaysia.
@@ -151,10 +150,12 @@ os.makedirs(PROCESSED_DATA_DIR, exist_ok=True)
 output_file: str = os.path.join(PROCESSED_DATA_DIR, "malaysia_mortality_data_eda.csv")
 final_df.to_csv(output_file, index=False)
 
-# %%
-# This cell creates the final model-ready dataframe.
 
-# 1. Define the target levels and features.
+# %%
+# Nice, we have an aggregated EDA DataFrame now.
+# Let's create a model-ready DataFrame that can be used for classification or regression tasks.
+
+# Define the target levels and features.
 FEATURES: list[str] = ["Year", "Age Group", "Sex", "Mortality Count"]
 
 # Arbitrary selection of prediction target that has good balance of detail and number of classes.
@@ -172,15 +173,15 @@ AGE_GROUP_MAPPING: dict[str, int] = {
     "70+": 6,
 }
 
-# 2. Create a dataframe that ONLY contains rows representing a final L2 category.
+# %%
+# Create a dataframe that ONLY contains rows representing a final L2 category.
 # This removes all higher-level aggregates (like L1) and all lower-level details (L3, L4).
 model_df = final_df[
     (final_df[TARGET_LEVEL].str.strip() != "")
     & (final_df[NEXT_LEVEL].str.strip() == "")
 ].copy()
 
-
-# 3. Create the features DataFrame (X)
+# Create the features DataFrame (X)
 features_df = model_df[FEATURES].copy()
 features_df["Age Group"] = features_df["Age Group"].map(AGE_GROUP_MAPPING)
 
@@ -189,10 +190,10 @@ sex_dummies = pd.get_dummies(features_df["Sex"], prefix="Sex")
 features_df = pd.concat([features_df, sex_dummies], axis=1)
 features_df = features_df.drop("Sex", axis=1)
 
-# 4. Create the target Series (y)
+# Create the target Series (y)
 target_series = model_df[TARGET_LEVEL]
 
-# 5. Combine into a single Model DataFrame
+# Combine into a single Model DataFrame
 features_df.reset_index(drop=True, inplace=True)
 target_series.reset_index(drop=True, inplace=True)
 final_model_df = pd.concat([features_df, target_series], axis=1)
